@@ -8,7 +8,7 @@ web application to show the New York Times best-selling books list
 	2. Install 'npm install' downloads a package and it's dependencies. 
 	   npm install can be run with or without arguments. When run without arguments, 'npm install' downloads dependencies defined in a package. 
 	   json file and generates a node_modules folder with the installed modules
-	3. Use 'npm start' to open server on web browser
+	3. Use 'npm start' to open server on web browser  
 
 
 	B)
